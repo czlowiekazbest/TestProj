@@ -1,5 +1,5 @@
 (* TestProj *)
-(* here goes some damn super sofisticated source code which gonna blow your mind *)
+(* here goes some damn super sofisticated source code which obviously gonna blow your mind *)
 
 
 program PascalRulezz;
